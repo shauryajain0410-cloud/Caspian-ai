@@ -30,7 +30,7 @@ booking backend yet -- this agent fills that gap conversationally instead.
 
 ```bash
 pip install -r requirements.txt
-cp _env.example _env   # then fill in your real values
+cp .env.example .env   # then fill in your real values
 python bot.py
 ```
 
