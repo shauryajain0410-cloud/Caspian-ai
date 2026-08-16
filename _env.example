@@ -1,0 +1,6 @@
+# Copy this file to `_env` and fill in your real values.
+# `_env` itself is gitignored -- never commit real secrets.
+
+CASPIAN_API_KEY=your_caspian_api_key_here
+CASPIAN_BASE_URL=https://api.trycaspianai.com
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here

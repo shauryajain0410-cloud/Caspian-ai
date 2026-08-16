@@ -1,0 +1,3 @@
+pandas
+python-dotenv
+caspian-sdk  # confirm the exact package/install source in the caspian-sdk repo README
